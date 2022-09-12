@@ -277,3 +277,7 @@ WARNING: Unmatched cancel notification for request id 1928
 2022.09.13 00:44:28 WARN  no build target for: /home/lordzampa/Desktop/UCSC/2nd_year/1st_semester/SCS2204_Functional_Programming/Scala_Tutorial_06/cipher.scala[0m
 Sep 13, 2022 12:45:23 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+Sep 13, 2022 12:46:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2694
+Sep 13, 2022 12:47:20 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
